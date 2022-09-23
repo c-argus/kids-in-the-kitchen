@@ -17,16 +17,17 @@ body {
 .header {
     width: 100%;
     min-height: 100vh;
-    background-image: linear-gradient(rgba(185, 182, 181,0.7),rgba(138, 157, 175,0.7)), url("/assets/images/project.image.jpg");
+    background-image: linear-gradient(rgba(213, 199, 198,0.7),rgba(178, 156, 152,0.7)), url("/assets/images/project.image.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
 }
 
-h1, h2 {
+h1 {
     font-family: Mukta, sans-serif;
-    color: rgb(38, 50, 62);
+    color: rgb(255, 190, 11);
+    text-shadow: 1px 1px rgb(76, 59, 31);
 }
 
 #logo {
@@ -51,9 +52,31 @@ h1, h2 {
 
 #menu a {
     text-decoration: none;
-    color: rgb(38, 50, 62);
+    color: rgb(255, 190, 11);
+    text-shadow: 1px 1px rgb(76, 59, 31);
+    font-size: 100%;
 }
 
 #menu a:hover {
     border-bottom: 2px solid rgb(138, 157, 175);
+}
+
+/* text first page */
+
+#text-cover {
+    text-align: center;
+    padding-top: 350px;
+    padding-bottom: 350px;
+}
+
+#text-cover, h2 {
+    font-size: 210%;
+    color: rgb(255, 0, 110);
+    text-shadow: 2px 2px rgb(31, 23, 18);
+}
+
+#text-cover, h3 {
+    color: rgb(251, 255, 18);
+    text-shadow: none;
+    font-weight: 200;
 }
