@@ -106,6 +106,7 @@ h1 {
     margin-top: 5%;
     display: flex;
     justify-content: space-between;
+    flex-direction: column;
 }
 
 .groups-col {
@@ -126,6 +127,9 @@ h1 {
 
 .groups-skill {
     color: #874f8d;
+    text-align: center;
+    list-style: none;
+
 }
 
 /* classes table */
