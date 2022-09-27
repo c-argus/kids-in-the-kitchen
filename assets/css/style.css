@@ -76,7 +76,7 @@ h1 {
 }
 
 #text-cover, h3 {
-    color: rgb(251, 255, 18);
+    color: #DDFF20;
     text-shadow: 2px 2px rgb(31, 23, 18);
     font-weight: 200;
 }
@@ -90,12 +90,39 @@ h1 {
     margin: auto;
 }
 
-h1 {
+.groups h1 {
     font-weight: 500;
     font-size: 230%;
 }
 
-p {
+.groups p {
     font-size: 120%;
-    color: rgb(255, 0, 110);
+    color: rgb(135, 79, 141);
+    font-weight: 400;
+}
+
+.columns {
+    margin-top: 5%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.groups-col {
+    flex-basis: 31%;
+    background: rgba(255, 190, 11,0.7);
+    border-radius: 10px;
+    margin-bottom: 5%;
+    padding: 22px 15px;
+    box-sizing: border-box;
+}
+
+.groups-col h3 {
+    color: rgb(90, 24, 154);
+    font-weight: 400;
+    font-size: 115%;
+    text-shadow: none;
+}
+
+.groups-skill {
+    color: #874f8d;
 }
