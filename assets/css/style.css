@@ -58,7 +58,7 @@ h1 {
 }
 
 #menu a:hover {
-    border-bottom: 2px solid rgb(65, 234, 212);
+    border-bottom: 2px solid rgb(255, 0, 110);
 }
 
 /* text first page */
@@ -93,6 +93,7 @@ h1 {
 .groups h1 {
     font-weight: 500;
     font-size: 230%;
+    margin-top: 2%;
 }
 
 .groups p {
@@ -111,7 +112,7 @@ h1 {
     flex-basis: 31%;
     background: rgba(255, 190, 11,0.7);
     border-radius: 10px;
-    margin-bottom: 5%;
+    margin-bottom: 2%;
     padding: 22px 15px;
     box-sizing: border-box;
 }
@@ -139,7 +140,6 @@ h1 {
 .class-time h1 {
     font-weight: 500;
     font-size: 230%;
-    margin-bottom: 2%;
 }
 
 #time {
@@ -147,7 +147,7 @@ h1 {
     width: 100%;
     padding-top: 50%;
     color: rgb(135, 79, 141);
-    margin-bottom: 5%;
+    margin-bottom: 2%;
 }
 
 #time td, #time th {
@@ -165,4 +165,29 @@ h1 {
     text-align: center;
     color:rgb(135, 79, 141);
     background-color: rgba(255, 190, 11,0.7);
+}
+
+/* sign up */
+
+.sign-up {
+    width: 80%;
+    padding-top: 50px;
+    text-align: center;
+    margin: auto;
+}
+
+.sign-up h2 {
+    font-weight: 500;
+    font-size: 230%;
+    margin-top: 250%;
+}
+
+.sign-up-img {
+    width: 100%;
+    min-height: 100vh;
+    background-image: linear-gradient(rgba(213, 199, 198,0.7),rgba(178, 156, 152,0.7)), url("/assets/images/sign-up.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
 }
