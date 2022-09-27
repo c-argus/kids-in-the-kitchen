@@ -127,3 +127,42 @@ h1 {
     color: #874f8d;
 }
 
+/* classes table */
+
+.class-time {
+    width: 80%;
+    padding-top: 50px;
+    text-align: center;
+    margin: auto;
+}
+
+.class-time h1 {
+    font-weight: 500;
+    font-size: 230%;
+    margin-bottom: 2%;
+}
+
+#time {
+    border-collapse: collapse;
+    width: 100%;
+    padding-top: 50%;
+    color: rgb(135, 79, 141);
+    margin-bottom: 5%;
+}
+
+#time td, #time th {
+    border: 1px solid rgb(255, 190, 11);
+    padding: 12px 8px;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+#time #class-group:hover{background-color: rgba(182, 119, 148,0.7);}
+
+#time th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    color:rgb(135, 79, 141);
+    background-color: rgba(255, 190, 11,0.7);
+}
