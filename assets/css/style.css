@@ -268,5 +268,22 @@ input {
     accent-color: rgba(182, 119, 148,0.7);
 }
 
+.s-button {
+    margin-top: 10px;
+    border-radius: 2px;
+    padding: 10px 24px;
+    border-radius: 8px;
+    text-align: center;
+    font-size: 100%;
+    background-color: transparent;
+    color: #814B87;
+    display: block;
+    border: 1px solid #874f8d;
+}
+
+.s-button:hover {
+    background-color: rgb(255, 190, 11);
+    color: #814B87
+}
 
 
