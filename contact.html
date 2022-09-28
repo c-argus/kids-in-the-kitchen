@@ -13,31 +13,49 @@
 </head>
 
 <body>
-    <h1 class="logo">Kids in the Kitchen</h1>
-    </a>
-    <nav>
-        <div class="menu">
-            <ul>
-                <li><a href="contact.html">Contact</a></li>
-                <li><a href="sign-up.html">Sign Up</a></li>
-                <li><a href="index.html">Home</a></li>
-            </ul>
-        </div>
-    </nav>
+    <header class="sign-up-img">
+        <a href="index.html">
+            <h1 class="logo">Kids in the Kitchen</h1>
+        </a>
+        <nav>
+            <div class="menu">
+                <ul>
+                    <li><a href="contact.html">Contact</a></li>
+                    <li><a href="sign-up.html">Sign Up</a></li>
+                    <li><a href="index.html">Home</a></li>
+                </ul>
+            </div>
+        </nav>
 
-    <section class="touch">
+        <section class="form">
+            <form method="post" action="https://formdump.codeinstitute.net/" class="spform">
+                <h2>Sign up!</h2>
+                <label for="kids-name">Kid's Name</label>
+                <input type="text" id="kids-name" name="kids_name" class="input-text" required>
 
+                <label for="parents-name">Parent's Name</label>
+                <input type="text" id="parents-name" name="parents_name" class="input-text" required>
 
-        <h2>Have a question?</h2>
-        <h3>Contact us!</h3>
+                <label for="email">Email Address</label>
+                <input type="email" id="email" name="email_address" class="input-text" required>
 
-        <form action="https://formdump.codeinstitute.net/">
-        <textarea name="message" id="message" cols="30" rows="10">Write here your question.</textarea>
+                <input type="radio" id="ageg1" name="age_group" value="ageg1" required>
+                <label for="ageg1" class="radio-button">3-5</label>
+                
+                <input type="radio" id="ageg2" name="age_group" value="ageg2" required>
+                <label for="ageg2" class="radio-button">6-8</label>
+                
 
-        <input type="submit" value="Send Message">
-    </form>
-    </section>
+                <input type="radio" id="ageg3" name="age_group" value="ageg3" required>
+                <label for="ageg3" class="radio-button">9-12</label>
+                
+
+                <input type="submit" class="s-button"  value="Submit!">
+            </form>
+        </section>
     </header>
+    
+    
 
     <!-- footer -->
 
@@ -53,6 +71,7 @@
 
     <!-- font awesome script -->
     <script src="https://kit.fontawesome.com/20ca3611e4.js" crossorigin="anonymous"></script>
+
 </body>
 
 </html>
