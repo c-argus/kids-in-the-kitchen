@@ -260,6 +260,13 @@ footer, h4 {
     background-color: rgba(182, 119, 148,0.7);
 }
 
-.ageg input:checked ~ .container {
-    background-color: rgba(182, 119, 148,0.7);
+.radio-button {
+    margin-right: 20px;
 }
+
+input {
+    accent-color: rgba(182, 119, 148,0.7);
+}
+
+
+
