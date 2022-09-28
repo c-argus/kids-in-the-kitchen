@@ -286,4 +286,13 @@ input {
     color: #814B87
 }
 
+/* contact us */
+
+.touch h2 {
+    color: rgb(255, 190, 11);
+    margin-bottom: 20px;
+    text-align: center;
+    margin-top: 30%;
+}
+
 
