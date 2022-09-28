@@ -146,7 +146,7 @@ h1 {
     font-size: 230%;
 }
 
-#time {
+.time {
     border-collapse: collapse;
     width: 100%;
     padding-top: 50%;
@@ -154,16 +154,16 @@ h1 {
     margin-bottom: 2%;
 }
 
-#time td, #time th {
+.time td, .time th {
     border: 1px solid rgb(255, 190, 11);
     padding: 12px 8px;
     margin-top: 2%;
     margin-bottom: 2%;
 }
 
-#time #class-group:hover{background-color: rgba(182, 119, 148,0.7);}
+.time .class-group:hover{background-color: rgba(182, 119, 148,0.7);}
 
-#time th {
+.time th {
     padding-top: 12px;
     padding-bottom: 12px;
     text-align: center;
@@ -198,17 +198,32 @@ h1 {
 
 /* footer*/
 
-.footer {
-    background-image: linear-gradient(rgba(213, 199, 198,0.7),rgba(178, 156, 152,0.7));
+footer {
+    background-image: linear-gradient(rgba(255, 255, 255,0.7),rgba(255, 190, 11,0.7));
     padding: 10px 0;
+    height: 80px;
 }
 
-.container {
-    max-width: 1170px;
-    box-sizing: border-box;
-    margin: auto;
+footer, h4 {
+    text-align: center;
+    color: rgb(135, 79, 141);
+    font-size: 1rem;
+    margin-top: 15px;
 }
 
+.social {
+    text-align: center;
+    color: rgb(135, 79, 141);
+    padding: 5px;
+    list-style: none;
+}
 
+.social > li {
+    display: inline;
+}
 
-.footer-col
+.social i {
+    font-size: 1rem;
+    margin: 1%;
+    color: rgb(135, 79, 141);
+}
