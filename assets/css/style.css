@@ -30,52 +30,52 @@ h1 {
     text-shadow: 1px 1px rgb(76, 59, 31);
 }
 
-#logo {
+.logo {
     float: left;
     font-size: 250%;
     margin-left: 30px;
 }
 
-#menu {
+.menu {
     font-size: 125%;
 }
 
-#menu, #logo {
+.menu, .logo {
     line-height: 75px;
 }
 
-#menu li {
+.menu li {
     float: right;
     list-style: none;
     margin-right: 50px;
 }
 
-#menu a {
+.menu a {
     text-decoration: none;
     color: rgb(255, 190, 11);
     text-shadow: 1px 1px rgb(76, 59, 31);
     font-size: 100%;
 }
 
-#menu a:hover {
+.menu a:hover {
     border-bottom: 2px solid rgb(255, 0, 110);
 }
 
 /* text first page */
 
-#text-cover {
+.text-cover {
     text-align: center;
     padding-top: 350px;
     padding-bottom: 350px;
 }
 
-#text-cover, h2 {
+.text-cover, h2 {
     font-size: 210%;
     color: rgb(255, 0, 110);
     text-shadow: 2px 2px rgb(31, 23, 18);
 }
 
-#text-cover, h3 {
+.text-cover, h3 {
     color: #DDFF20;
     text-shadow: 2px 2px rgb(31, 23, 18);
     font-weight: 200;
