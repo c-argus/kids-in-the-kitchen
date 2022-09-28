@@ -288,11 +288,8 @@ input {
 
 /* contact us */
 
-.touch h2 h3 {
-    color: rgb(255, 190, 11);
-    font-weight: 500;
-    font-size: 230%;
-    margin-top: 2%;
+.touch, h2 {
+    
 }
 
 
