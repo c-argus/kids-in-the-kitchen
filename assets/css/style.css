@@ -370,9 +370,6 @@ footer, h4 {
 
 .spform {
     margin: 100px 10% 100px 10%;
-    color: #814B87;
-    max-width: 400px;
-    position: absolute;
-    padding: 30px;
     text-align: center;
+}
 }
