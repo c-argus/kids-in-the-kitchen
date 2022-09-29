@@ -288,10 +288,18 @@ input {
 
 /* contact us */
 
-.touch, h2 {
+.touch h2 {
     color: rgb(255, 190, 11);
     margin-bottom: 20px;
     text-align: center;
+}
+
+.touch h3 {
+    color: #814B87;
+    margin-bottom: 20px;
+    text-align: center;
+    text-shadow: none;
+    font-weight: 300;
 }
 
 .touch-form {
@@ -302,10 +310,27 @@ input {
     max-width: 400px;
     position: absolute;
     left: 33%;
-    padding: 12px 20px;
-    
-    
+  
+}
 
+.touch-text {
+    width: 100%;
+    height: 150px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid #814B87;
+    border-radius: 4px;
+    background-color: transparent;
+    font-size: 16px;
+    resize: none;
+}
+
+.touch-text:focus {
+    background-color: rgba(182, 119, 148,0.7)
+}
+
+textarea {
+    accent-color: rgba(182, 119, 148,0.7)
 }
 
 
