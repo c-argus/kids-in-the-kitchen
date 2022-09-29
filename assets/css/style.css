@@ -231,7 +231,7 @@ footer, h4 {
 /* form */
 
 .spform {
-    margin: 160px 10% 0 0;
+    margin: 100px 10% 0 0;
     color: #814B87;
     max-width: 400px;
     position: absolute;
@@ -333,4 +333,21 @@ textarea {
     accent-color: rgba(182, 119, 148,0.7)
 }
 
+.t-button {
+    margin-top: 10px;
+    border-radius: 2px;
+    padding: 10px 24px;
+    border-radius: 8px;
+    text-align: center;
+    font-size: 100%;
+    background-color: transparent;
+    color: #814B87;
+    display: block;
+    border: 1px solid #874f8d;
+}
+
+.t-button:hover {
+    background-color: rgb(255, 190, 11);
+    color: #814B87
+}
 
