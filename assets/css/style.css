@@ -369,6 +369,10 @@ footer, h4 {
         padding: 0;
 }
 
+.text-cover, h2 {
+    font-size: 120%;
+}
+
 .spform h2 {
     margin-bottom: 20px;
     text-align: center;
