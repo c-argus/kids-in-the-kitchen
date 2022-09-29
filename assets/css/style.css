@@ -27,6 +27,10 @@ body {
     background-size: cover;
 }
 
+.menu a.active {
+    border-bottom: 2px solid #ff006e;
+  }
+  
 /* headings and logo */
 
 .header {
