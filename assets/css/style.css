@@ -23,7 +23,7 @@ body {
   }
 
   .contact, .signup {
-    background-image: linear-gradient(#d5c7c6b3,#b29c98b3), url(/assets/images/project.image.jpg);
+    background-image: linear-gradient(#d5c7c6b3,#b29c98b3), url(../images/project.image.jpg);
     background-size: cover;
 }
 
