@@ -30,7 +30,7 @@ body {
 .menu a.active {
     border-bottom: 2px solid #ff006e;
   }
-  
+
 /* headings and logo */
 
 .header {
@@ -188,7 +188,6 @@ h1 {
 
 .sign-up {
     width: 80%;
-    padding-top: 50px;
     text-align: center;
     margin: auto;
 }
@@ -196,7 +195,6 @@ h1 {
 .sign-up h2 {
     font-weight: 500;
     font-size: 230%;
-    margin-top: 250%;
 }
 
 .sign-up-img {
@@ -214,7 +212,7 @@ h1 {
     margin: 100px 10% 0 0;
     color: #814B87;
     max-width: 400px;
-    padding: 30px;
+
 }
 
 .spform h2 {
@@ -374,7 +372,6 @@ footer, h4 {
 .spform h2 {
     margin-bottom: 20px;
     text-align: center;
-    margin-top: 80%;
 }
 
 .spform {
