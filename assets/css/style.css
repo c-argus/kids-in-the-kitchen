@@ -8,20 +8,29 @@
 
 body {
     font-family: Mukta, Verdana, Geneva, Tahoma, sans-serif;
-    font-weight: 500;
-    color: rgb(56, 89, 122);
+  font-weight: 500;
+  color: #38597a;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.home .header {
+    background-image: linear-gradient(#d5c7c6b3,#b29c98b3), url(/assets/images/project.image.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .contact, .signup {
+    background-image: linear-gradient(#d5c7c6b3,#b29c98b3), url(/assets/images/project.image.jpg);
+    background-size: cover;
 }
 
 /* headings and logo */
 
 .header {
     width: 100%;
-    min-height: 100vh;
-    background-image: linear-gradient(rgba(213, 199, 198,0.7),rgba(178, 156, 152,0.7)), url("/assets/images/project.image.jpg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    position: relative;
 }
 
 h1 {
@@ -187,23 +196,20 @@ h1 {
 }
 
 .sign-up-img {
-    width: 100%;
-    min-height: 100vh;
-    background-image: linear-gradient(rgba(213, 199, 198,0.7),rgba(178, 156, 152,0.7)), url("/assets/images/sign-up.jpg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
     position: relative;
 }
 
 /* form */
 
+.form {
+    flex: 1;
+    justify-content: center;
+}
+
 .spform {
     margin: 100px 10% 0 0;
     color: #814B87;
     max-width: 400px;
-    position: absolute;
-    left: 33%;
     padding: 30px;
 }
 
@@ -257,7 +263,10 @@ input {
 /* contact us */
 
 .touch {
-    max-width: 95%;
+    display: flex;
+    width: 100vw;
+    justify-content: center;
+    flex: 1
 }
 
 .touch h2 {
@@ -277,11 +286,8 @@ input {
 .touch-form {
     width: 100%;
     height: 80%;
-    margin: 100px 10% 0 0;
     color: #814B87;
     max-width: 400px;
-    position: absolute;
-    left: 33%;
   
 }
 
@@ -329,7 +335,6 @@ textarea {
 footer {
     background-image: linear-gradient(rgba(255, 255, 255,0.7),rgba(255, 190, 11,0.7));
     padding: 10px 0;
-    height: 80px;
 }
 
 footer, h4 {
@@ -372,4 +377,12 @@ footer, h4 {
     margin: 100px 10% 100px 10%;
     text-align: center;
 }
+
+.touch h2 {
+    margin-bottom: 10px;
+    text-align: center;
+    margin-top: 20%;
+}
+
+
 }
