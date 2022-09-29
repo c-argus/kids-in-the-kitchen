@@ -12,21 +12,27 @@
     <title>Kids in the Kitchen</title>
 </head>
 
-<body class="signup"> 
-    <header class="sign-up-img">
-        <a href="index.html">
-            <h1 class="logo">Kids in the Kitchen</h1>
-        </a>
-        <nav>
-            <div class="menu">
-                <ul>
-                    <li><a href="contact.html">Contact</a></li>
-                    <li><a href="sign-up.html" class="active">Sign Up</a></li>
-                    <li><a href="index.html">Home</a></li>
-                </ul>
-            </div>
-        </nav>
-    </header>
+<body class="signup">
+    <section class="header">
+        <header>
+            <a href="index.html">
+                <h1 class="logo">Kids in the Kitchen</h1>
+            </a>
+            <nav>
+                <div class="menu">
+                    <ul class="menu-bar" style="display:flex; flex-direction:row;">
+
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="sign-up.html" class="active">Sign Up</a></li>
+                        <li><a href="contact.html">Contact</a></li>
+
+
+                    </ul>
+                </div>
+            </nav>
+        </header>
+       
+    </section>
 
     <section class="form">
         <form method="post" action="https://formdump.codeinstitute.net/" class="spform">
@@ -41,14 +47,14 @@
             <input type="email" id="email" name="email_address" class="input-text" required>
 
             <input type="radio" id="ageg1" name="age_group" value="ageg1" required>
-            <label for="ageg1" class="radio-button">3-5</label>
+            <label for="ageg1" class="radio-button">Age 3-5</label>
 
             <input type="radio" id="ageg2" name="age_group" value="ageg2" required>
-            <label for="ageg2" class="radio-button">6-8</label>
+            <label for="ageg2" class="radio-button">Age 6-8</label>
 
 
             <input type="radio" id="ageg3" name="age_group" value="ageg3" required>
-            <label for="ageg3" class="radio-button">9-12</label>
+            <label for="ageg3" class="radio-button">Age 9-12</label>
 
 
             <input type="submit" class="s-button" value="Submit!">
