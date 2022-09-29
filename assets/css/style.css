@@ -289,7 +289,18 @@ input {
 /* contact us */
 
 .touch, h2 {
-    
+    color: rgb(255, 190, 11);
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.touch-form {
+    margin: 160px 10% 0 0;
+    color: #814B87;
+    max-width: 400px;
+    position: absolute;
+    left: 33%;
+    padding: 30px;
 }
 
 
