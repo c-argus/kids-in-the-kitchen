@@ -21,7 +21,15 @@ Kids in the Kitchen is a site that encourages parents to introduce their kids to
   - The second line gives the information about the age range for students.
   - It has a background of two kids making cookies as an inspiration for future pupils.
 
-![Header Home Page](assets/images/header-home.PNG)    
+![Header Home Page](assets/images/header-home.PNG)
+
+* The Our Groups Section
+  - The Our Groups section provides a detailed description of what you can expect of each class for the three different age groups.
+  - It also infor to the parents that some kids will need them to be present during the classes. This should encourage kids and parents to spend some fun time toghether.
+
+![Our Groups Section Home Page](assets/images/groups.PNG)
+
+
 
 
 
