@@ -110,9 +110,18 @@ Kids in the Kitchen is a site that encourages parents to introduce their kids to
 
 * The colours and fonts chosen for each page are easy to read and accessible by running it though lighthouse in DevTools.
 
-![Lighthouse DevTools test results Home Page](assets/images/lighthouse.PNG)
+  - *Home Page*
+  ![Lighthouse DevTools test results Home Page](assets/images/lighthouse.PNG)
 
-![Lighthouse DevTools test result Sign Up Page](assets/images/lighthousesp.PNG)
+  - *Sign Up Page*
+  ![Lighthouse DevTools test result Sign Up Page](assets/images/lighthousesp.PNG)
 
-![Lighthouse DevTools test result Contact Us Page](assets/images/lighthousecs.PNG)
+  - *Contact Us Page*
+  ![Lighthouse DevTools test result Contact Us Page](assets/images/lighthousecs.PNG)
+
+
+
+
+
+
 
