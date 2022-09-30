@@ -29,6 +29,11 @@ Kids in the Kitchen is a site that encourages parents to introduce their kids to
 
 ![Our Groups Section Home Page](assets/images/groups.PNG)
 
+* The Our Classes Section
+  - This section shows the user important information about the week day and time each age group class is offered.
+  - This section will be updated as these times change to keep the user up to date.
+
+![Our Classes Section Home Page](assets/images/classes.PNG)  
 
 
 
