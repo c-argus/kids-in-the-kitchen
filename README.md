@@ -1,6 +1,6 @@
 # Kids in the Kitchen
 
-Kids in the Kitchen is a site that encourages parents to introduce their kids to the magical world of the kitchen. It provides cooking classes for kids from 3 to 12 years old in a fun and engaging environment. This way is possible to teach the kid a new skill and make a stronger bond between kids and parents.
+Kids in the Kitchen is a site that encourages parents to introduce their kids to the magical world of the kitchen. It provides cooking classes for kids from 3 to 12 years old in a fun and engaging environment. This way it's possible to teach children a new skill and form a stronger bond with their parents.
 
 ![Mockup image](assets/images/mockup.PNG)
 
@@ -9,23 +9,23 @@ Kids in the Kitchen is a site that encourages parents to introduce their kids to
 ### **Existing Features**
 
 * Navigation Bar
-  - Featured on all three pages, the full responsive navigation bar shows the site name in the left corner: Kids in the Kitchen that links to the top of the page.
-  - It also includes links to the Home page, Sign Up and Contact page and is consistent in each page to allow for easy navigation.
+  - Featured on all three pages, the fully responsive navigation bar shows the site name in the left corner: Kids in the Kitchen that links to the top of the page.
+  - It also includes links to the Home page, Sign Up and Contact page and is consistent on each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
-  - The current page is underligned in a color that contrasts with the background. Giving clarity of current location within thw website. There is also an active selector in bright pink to aid in navigation.
+  - The current page is underligned in a color that contrasts with the background. Giving clarity of current location within the website. There is also an active selector in bright pink to aid in further navigation.
 
 ![Navigation Bar Sample](assets/images/feature-bar.PNG)
 
 * Header Home Page
   - The header in the Home Page shows a big text in bright pink color inviting the users for a cooking class.
-  - The second line gives the information about the age range for students.
+  - The second line gives information about the age range for students.
   - It has a background of two kids making cookies as an inspiration for future pupils.
 
 ![Header Home Page](assets/images/header-home.PNG)
 
 * The Our Groups Section
-  - The Our Groups section provides a detailed description of what you can expect of each class for the three different age groups.
-  - It also informs the users that some kids will need parental supervision during the classes. This should encourage kids and parents to spend some fun time toghether.
+  - The Our Groups section provides a detailed description of what you can expect from each class for the three different age groups.
+  - It also informs the users that some age groups will need parental supervision during the classes. This should encourage kids and parents to spend some fun time toghether.
 
 ![Our Groups Section Home Page](assets/images/groups.PNG)
 
@@ -36,7 +36,7 @@ Kids in the Kitchen is a site that encourages parents to introduce their kids to
 ![Our Classes Section Home Page](assets/images/classes.PNG)
 
 * The Footer
-  - The footer section aim the interaction of the users with Kids in the Kitchen social media.
+  - The footer section connects users with Kids in the Kitchen social media.
   - Includes icons of Youtube, Twitter, Facebook and Instagram. To allow easy navigation for the user, all links open to a new tab.
 
 
@@ -45,13 +45,13 @@ Kids in the Kitchen is a site that encourages parents to introduce their kids to
 * Sign Up Page
   - The Sign Up page has a form so the user can sign up for the cooking class.
   - It collects information such as the kid's name, parent's name, email for contact. The user also will specify the age group of the kid.
-  - The Sign Up form is valuable to the user as it provides an easy and quick way to joing the Kids in the Kitchen cooking classes.
+  - The Sign Up form is valuable to the user as it provides an easy and quick way to join the Kids in the Kitchen cooking classes.
 
 ![Sign Up Form Page](assets/images/signup.PNG)
 
-* Contac Us Page
-  - The Contac Us Page provides a form for the user to fill in case of any information needed.
-  - The interface is similar to an email structure. This way is possible to any user fill in the form without any trouble.
+* Contact Us Page
+  - The Contact Us Page provides a form for the user to contact the organization.
+  - The interface is similar to an email structure. Allowing any user fill in the form without any difficulty.
 
 ![Contac Us Form Page](assets/images/contactus.PNG)
 
@@ -158,10 +158,10 @@ There are no identified bugs as at now.
 * Background media was taken from [freepik](https://www.freepik.com/).
 
 ### Acknowledgements
-* The inspiration for this website was on one of my hobbies, to cook. Alongside with the memories I have from my childhood when I spent part of my day with my mom in the kitchen, learning from her and also have great fun!
-* Thank you to my parter that was very patiente and supportive throughout the process of criation of this website.
+* The inspiration for this website was on one of my hobbies, to cook. Alongside with the memories I have from my childhood when I spent part of my day with my mom in the kitchen, learning from her and also having great fun!
+* Thank you to my parter that was very patient and supportive throughout the process of creation of this website.
 * Thank you to my friends and family that helped during the testing process.
-* Thank you to my mentor for the help and significant advises. 
+* Thank you to my mentor for the help and advice. 
 
 
 
