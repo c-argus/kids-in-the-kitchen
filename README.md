@@ -1,6 +1,6 @@
 # Kids in the Kitchen
 
-Kids in the Kitchen is a site that encourages parents to introduce their kids to the magical world of the kitchen. It provides cooking classes for kids from 3 to 12 years old is a funny way. This way is possible to teach the kid a new skill and make a stronger bond between kids and parents.
+Kids in the Kitchen is a site that encourages parents to introduce their kids to the magical world of the kitchen. It provides cooking classes for kids from 3 to 12 years old in a fun and engaging environment. This way is possible to teach the kid a new skill and make a stronger bond between kids and parents.
 
 ![Mockup image](assets/images/mockup.PNG)
 
@@ -10,9 +10,9 @@ Kids in the Kitchen is a site that encourages parents to introduce their kids to
 
 * Navigation Bar
   - Featured on all three pages, the full responsive navigation bar shows the site name in the left corner: Kids in the Kitchen that links to the top of the page.
-  - It also includes links to the Home page, Sign Up and Contact page and is identical in each page to allow for easy navigation.
+  - It also includes links to the Home page, Sign Up and Contact page and is consistent in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
-  - The navigation is in a color that contrast with the background and has an active selector in bright pink to make it easier for the user to know the page they are navigating.
+  - The current page is underligned in a color that contrasts with the background. Giving clarity of current location within thw website. There is also an active selector in bright pink to aid in navigation.
 
 ![Navigation Bar Sample](assets/images/feature-bar.PNG)
 
@@ -25,7 +25,7 @@ Kids in the Kitchen is a site that encourages parents to introduce their kids to
 
 * The Our Groups Section
   - The Our Groups section provides a detailed description of what you can expect of each class for the three different age groups.
-  - It also infor to the parents that some kids will need them to be present during the classes. This should encourage kids and parents to spend some fun time toghether.
+  - It also informs the parents that some kids will need parental supervision during the classes. This should encourage kids and parents to spend some fun time toghether.
 
 ![Our Groups Section Home Page](assets/images/groups.PNG)
 
