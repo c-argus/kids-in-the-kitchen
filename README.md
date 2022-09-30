@@ -17,7 +17,7 @@ Kids in the Kitchen is a site that encourages parents to introduce their kids to
 ![Navigation Bar Sample](assets/images/feature-bar.PNG)
 
 * Header Home Page
-  - The header in the Home Page shows a big text in bright pink color inviting kids and their parents for a cooking class.
+  - The header in the Home Page shows a big text in bright pink color inviting the users for a cooking class.
   - The second line gives the information about the age range for students.
   - It has a background of two kids making cookies as an inspiration for future pupils.
 
@@ -25,7 +25,7 @@ Kids in the Kitchen is a site that encourages parents to introduce their kids to
 
 * The Our Groups Section
   - The Our Groups section provides a detailed description of what you can expect of each class for the three different age groups.
-  - It also informs the parents that some kids will need parental supervision during the classes. This should encourage kids and parents to spend some fun time toghether.
+  - It also informs the users that some kids will need parental supervision during the classes. This should encourage kids and parents to spend some fun time toghether.
 
 ![Our Groups Section Home Page](assets/images/groups.PNG)
 
@@ -33,12 +33,6 @@ Kids in the Kitchen is a site that encourages parents to introduce their kids to
   - This section shows the user important information about the week day and time each age group class is offered.
   - This section will be updated as these times change to keep the user up to date.
 
-![Our Classes Section Home Page](assets/images/classes.PNG)  
+![Our Classes Section Home Page](assets/images/classes.PNG)
 
-
-
-
-
-
-
-
+* Footer
