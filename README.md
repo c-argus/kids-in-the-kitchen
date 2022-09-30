@@ -98,3 +98,10 @@ Kids in the Kitchen is a site that encourages parents to introduce their kids to
 
 * To test navigation and responsive tools, the website was shared with friends and family of different ages and different levels of computer/smart device knowledge. There were no issues idenfied regarding the simplicity of navigating the website.
 * The testers also verified that all buttons and links works as expected.
+
+### Compatibility Testing
+
+* The website was tested for responsiveness on Chrome DevTools. Different viewport sizes were simulated ranging from as small as iPhone 5 (320px) to large desktop sizes (1200px and above).
+
+* Browser Compatibility
+  - The website was tested in different browsers, it works as expected in Firefox, Chrome, Brave and Safari.   
