@@ -62,3 +62,23 @@ Kids in the Kitchen is a site that encourages parents to introduce their kids to
 
 * Contact Us Page
   - This section will be updated with phone number and address information and Google Maps link in the future.
+
+## Testing
+
+* Navigation Bar
+  - When the logo "Kids in the Kitchen" is clicked, it bring the user to the Home Page. This has been tested on both desktop and mobile and from all pages.
+  - All links are working and have been tested.
+  - The navigation bar stays at the top of the page on all screen sizes.
+
+* Footer
+  - Footer is always located at the bottom of the page regardless of the content amount. This was tested by removing all content from any given page.
+  - The social links, when clicked, open the relevant social media page in a new tab.
+  - All external links were tested to make sure they open up the correct pages in new tab.
+
+* Internal Links
+  - All internal links were tested to make sure that all pages are correctly connected.
+  - Navigations links brings the user to the relevant pages.
+  - The logo "Kids in the Kitchen" always brings the user to the home page.
+
+* Forms
+  - All the forms were tested and works perfectly, it requires entries in every field, will only accept an email in the email field, and the submit button works.  
