@@ -13,7 +13,6 @@ Kids in the Kitchen is a site that encourages parents to introduce their kids to
   - It also includes links to the Home page, Sign Up and Contact page and is consistent in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
   - The current page is underligned in a color that contrasts with the background. Giving clarity of current location within thw website. There is also an active selector in bright pink to aid in navigation.
-  - This section will be uptaded in the future with a fixed bar for web browsers.
 
 ![Navigation Bar Sample](assets/images/feature-bar.PNG)
 
@@ -53,6 +52,13 @@ Kids in the Kitchen is a site that encourages parents to introduce their kids to
 * Contac Us Page
   - The Contac Us Page provides a form for the user to fill in case of any information needed.
   - The interface is similar to an email structure. This way is possible to any user fill in the form without any trouble.
-  - This section will be updated with phone number, address and Google Maps information in te future.
 
-![Contac Us Form Page](assets/images/contactus.PNG) 
+![Contac Us Form Page](assets/images/contactus.PNG)
+
+## Features Left to Implement
+
+* Navigation Bar
+  - This section will be updated in the future with a fixed bar for web browsers.
+
+* Contact Us Page
+  - This section will be updated with phone number and address information and Google Maps link in the future.
