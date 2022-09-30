@@ -133,7 +133,41 @@ The website was published using [GitHub Pages](https://github.com/), using the s
 4. On the left side menu, located on **Code and automation** section you will find the link for **Pages**. 
 5. Once in GitHub Pages,  under the *Source* click on the dropdown and select *Deploy from a branch*, under the *Branch* click on the dropdown and select *main* and *Save*.
 6. Reload the page and you'll see the link of your published page displayed under *GitHub pages*. 
-7. It takes a few minutes for the site to be published.  
+7. It takes a few minutes for the site to be published.
+
+## Bugs
+There are no identified bugs as at now.
+
+## Credits
+
+### Code
+* Gitpod was used to create a responsive HTML and CSS code. 
+* CodeInstitute Full Template was used to create the Gitpod workspace.
+
+### Content
+* All code was written by the author - Camila de Figueiredo.
+* Colour scheme was created using [Coolors](https://coolors.co/) and [Canva - Color wheel](https://www.canva.com/colors/color-wheel/).
+* To write up the README file the documents used as guidence were:
+  - Code Institute [Sample Project README.md](Sample Project README.md);
+  - [README Template](https://github.com/Code-Institute-Solutions/readme-template);
+  - [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+* The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+* The content for the Age Groups information was taken from the [EatingWell Article](https://www.eatingwell.com/article/290725/cooking-skills-every-kid-should-learn-by-age-10/).
+
+### Media
+* Background media was taken from [freepik](https://www.freepik.com/).
+
+### Acknowledgements
+* The inspiration for this website was on one of my hobbies, to cook. Alongside with the memories I have from my childhood when I spent part of my day with my mom in the kitchen, learning from her and also have great fun!
+* Thank you to my parter that was very patiente and supportive throughout the process of criation of this website.
+* Thank you to my friends and family that helped during the testing process.
+* Thank you to my mentor for the help and significant advises. 
+
+
+
+
+
+
 
 
 
