@@ -81,4 +81,17 @@ Kids in the Kitchen is a site that encourages parents to introduce their kids to
   - The logo "Kids in the Kitchen" always brings the user to the home page.
 
 * Forms
-  - All the forms were tested and works perfectly, it requires entries in every field, will only accept an email in the email field, and the submit button works.  
+  - All the forms were tested and works perfectly, it requires entries in every field, will only accept an email in the email field, and the submit button works.
+
+### CSS3 validator - Pass
+[Results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fc-argus.github.io%2Fkids-in-the-kitchen%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+
+### HTML5 validator
+
+* Home Page - **Pass** - [Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fc-argus.github.io%2Fkids-in-the-kitchen%2Findex.html)
+
+* Sign Up Page - **Pass** - [Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fc-argus.github.io%2Fkids-in-the-kitchen%2Fsign-up.html)
+
+* Contact Page - **Pass** - [Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fc-argus.github.io%2Fkids-in-the-kitchen%2Fcontact.html)
+
+
