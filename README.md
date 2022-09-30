@@ -94,4 +94,7 @@ Kids in the Kitchen is a site that encourages parents to introduce their kids to
 
 * Contact Page - **Pass** - [Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fc-argus.github.io%2Fkids-in-the-kitchen%2Fcontact.html)
 
+### Usability Testing
 
+* To test navigation and responsive tools, the website was shared with friends and family of different ages and different levels of computer/smart device knowledge. There were no issues idenfied regarding the simplicity of navigating the website.
+* The testers also verified that all buttons and links works as expected.
