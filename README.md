@@ -14,7 +14,14 @@ Kids in the Kitchen is a site that encourages parents to introduce their kids to
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
   - The navigation is in a color that contrast with the background and has an active selector in bright pink to make it easier for the user to know the page they are navigating.
 
-![Navigation Bar Sample](assets/images/feature-bar.PNG) 
+![Navigation Bar Sample](assets/images/feature-bar.PNG)
+
+* Header Home Page
+  - The header in the Home Page shows a big text in bright pink color inviting kids and their parents for a cooking class.
+  - The second line gives the information about the age range for students.
+  - It has a background of two kids making cookies as an inspiration for future pupils.
+
+![Header Home Page](assets/images/header-home.PNG)    
 
 
 
