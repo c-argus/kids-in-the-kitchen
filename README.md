@@ -13,6 +13,7 @@ Kids in the Kitchen is a site that encourages parents to introduce their kids to
   - It also includes links to the Home page, Sign Up and Contact page and is consistent in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
   - The current page is underligned in a color that contrasts with the background. Giving clarity of current location within thw website. There is also an active selector in bright pink to aid in navigation.
+  - This section will be uptaded in the future with a fixed bar for web browsers.
 
 ![Navigation Bar Sample](assets/images/feature-bar.PNG)
 
@@ -35,4 +36,9 @@ Kids in the Kitchen is a site that encourages parents to introduce their kids to
 
 ![Our Classes Section Home Page](assets/images/classes.PNG)
 
-* Footer
+* The Footer
+  - The footer section aim the interaction of the users with Kids in the Kitchen social media.
+  - Includes icons of Youtube, Twitter, Facebook and Instagram. To allow easy navigation for the user, all links open to a new tab.
+
+
+![Footer Section](assets/images/footer.PNG)
