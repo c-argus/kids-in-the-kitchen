@@ -48,4 +48,11 @@ Kids in the Kitchen is a site that encourages parents to introduce their kids to
   - It collects information such as the kid's name, parent's name, email for contact. The user also will specify the age group of the kid.
   - The Sign Up form is valuable to the user as it provides an easy and quick way to joing the Kids in the Kitchen cooking classes.
 
-![Sign Up Page Form](assets/images/signup.PNG) 
+![Sign Up Form Page](assets/images/signup.PNG)
+
+* Contac Us Page
+  - The Contac Us Page provides a form for the user to fill in case of any information needed.
+  - The interface is similar to an email structure. This way is possible to any user fill in the form without any trouble.
+  - This section will be updated with phone number, address and Google Maps information in te future.
+
+![Contac Us Form Page](assets/images/contactus.PNG) 
