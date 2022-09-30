@@ -1,5 +1,5 @@
 # Kids in the Kitchen
-![Mockup image](./images/mockup-readme.PNG)
+![Mockup image](assets/images/mockup-readme.PNG)
 
 
 
