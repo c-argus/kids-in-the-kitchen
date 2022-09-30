@@ -124,7 +124,16 @@ Kids in the Kitchen is a site that encourages parents to introduce their kids to
 
 ## Deployment
 
+### Publishing
+The website was published using [GitHub Pages](https://github.com/), using the steps presented:
 
+1. Go to the GitHub website and log in.
+2. On the left-hand side, you'll see all your repositories, select the appropriate one. ([Repository](https://github.com/c-argus/kids-in-the-kitchen) used for this project).
+3. Under the name of your chosen Repository you will see a ribbon of selections, click on 'Settings' located on the right hand side.
+4. On the left side menu, located on **Code and automation** section you will find the link for **Pages**. 
+5. Once in GitHub Pages,  under the 'Source' click on the dropdown and select *Deploy from a branch*, under the 'Branch' click on the dropdown and select *main* and *Save*.
+6. Reload the page and you'll see the link of your published page displayed under *GitHub pages*. 
+7. It takes a few minutes for the site to be published.  
 
 
 
